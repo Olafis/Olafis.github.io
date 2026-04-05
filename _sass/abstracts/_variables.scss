@@ -26,11 +26,5 @@ $code-icon-width: 1.75rem !default;
 
 /* fonts */
 
-/* 1. 기본 본문 폰트 (Inter + Pretendard 조합) */
-$font-family-base: 'Inter', 'Pretendard', -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", sans-serif;
-
-/* 2. 제목 폰트 (본문과 통일하거나 강조) */
-$font-family-heading: 'Inter', 'Pretendard', sans-serif;
-
-/* 3. 코드 폰트 (이게 네가 원한 JetBrains Mono다) */
-$code-font-family: 'JetBrains Mono', monospace; /* 만약 이 변수가 없다면 새로 추가해라 */
+$font-family-base: 'Source Sans Pro', 'Microsoft Yahei', sans-serif !default;
+$font-family-heading: Lato, 'Microsoft Yahei', sans-serif !default;
