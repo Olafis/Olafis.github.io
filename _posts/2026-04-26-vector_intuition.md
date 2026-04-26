@@ -38,9 +38,7 @@ image:
 
 벡터를 화살표로 떠올려보자.
 
-<p align="center">
-  <img src="/assets/img/posts/text_img/two-vector.png" width="400">
-</p>
+![두 벡터 예시](/assets/img/posts/text_img/two-vector.png)
 
 시작점이 (0, 0)이고  
 끝점이 (2, 3)이라면, 그 화살표 자체가 하나의 벡터다.
@@ -68,9 +66,7 @@ image:
 
 벡터는 서로 더할 수 있다.
 
-<p align="center">
-  <img src="/assets/img/posts/text_img/vector-add.png" width="400">
-</p>
+![벡터 덧셈 설명](/assets/img/posts/text_img/vector-add.png)
 
 (2, 3) + (1, -1) = (3, 2)
 
